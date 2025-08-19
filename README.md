@@ -1,3 +1,12 @@
+## Learning
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Mat" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
+  &nbsp;&nbsp;
+  <img align="center" alt="Rafa-Mat" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg">
+         
+</div>
+
+## Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Java" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   &nbsp;&nbsp;

@@ -1,7 +1,5 @@
 ## 🌱 Learning
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Mat" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
-  &nbsp;&nbsp;
   <img align="center" alt="Rafa-Mat" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg">
          
 </div>
@@ -15,6 +13,8 @@
   <img align="center" alt="Rafa-C++" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   &nbsp;&nbsp;
   <img align="center" alt="Rafa-SQL" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  &nbsp;&nbsp;
+  <img align="center" alt="Rafa-Mat" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
 </div>
 
 <hr style="border: 0; height: 1px;">

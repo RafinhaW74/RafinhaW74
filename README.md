@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=252C42&textBg=false"/>
 
+## Introduction
+
 
 ## 🌱 Learning
 <div align="left" style="display: flex; gap: 20px;">
@@ -16,16 +18,6 @@
   <img alt="Matlab" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
 </div>
 
-
-## 📬 Contato
-<div align="left"> 
-  <a href="mailto:rafamunhozcastro@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/rafael-munhoz-castro-216b62273" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
 
 
 ## 📊 Statistics
@@ -68,6 +60,15 @@
     </td>
   </tr>
 </table>
+
+<div align="left"> 
+  <a href="mailto:rafamunhozcastro@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-munhoz-castro-216b62273" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=182131&textBg=false&section=footer"/>

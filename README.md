@@ -1,64 +1,79 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=141&color=252C42&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=252C42&textBg=false"/>
 
-
+---
 
 ## 🌱 Learning
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-C++" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+<div align="center" style="display: flex; gap: 20px;">
+  <img alt="C++" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </div>
+
+---
 
 ## 👾 Skills
-<div style="display: inline_block"><br>
-  &nbsp;&nbsp;
-  <img align="center" alt="Rafa-Mat" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Rafa-Java" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Rafa-C" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Rafa-SQL" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Rafa-Mat" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
-  &nbsp;&nbsp;
+<div align="center" style="display: flex; gap: 25px;"><br>
+  <img alt="GitKraken" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg">
+  <img alt="Java" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img alt="C Language" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img alt="MySQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="Matlab" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
 </div>
 
-<hr style="border: 0; height: 1px;">
+---
 
-<div> 
-  <a href = "mailto:rafamunhozcastro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-munhoz-castro-216b62273" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 📬 Contato
+<div align="center"> 
+  <a href="mailto:rafamunhozcastro@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-munhoz-castro-216b62273" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
 
-## Statistics
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RafinhaW74&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaW74&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 📊 Statistics
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img 
+        height="180" 
+        src="https://github-readme-stats.vercel.app/api?username=RafinhaW74&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
+      />
+    </td>
+    <td align="center" style="border: none;">
+      <img 
+        height="180"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaW74&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"
+      />
+    </td>
+    <td align="center" style="border: none;">
+      <img 
+        height="180"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafinhaW74&theme=tokyonight&utcOffset=3"
+      />
+    </td>
+  </tr>
+</table>
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img 
+        height="300"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafinhaW74&theme=tokyonight" 
+      />
+    </td>
+    <td align="center" style="border: none;">
+      <img 
+        height="300"
+        src="https://streak-stats.vercel.app/?user=RafinhaW74&theme=tokyonight&hide_border=true"
+      />
+    </td>
+  </tr>
+</table>
 
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src= "https://img.shields.io/badge/RafinhaW74" 
-  />
-
-
-</p>
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=141&color=111720&textBg=false&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=182131&textBg=false&section=footer"/>

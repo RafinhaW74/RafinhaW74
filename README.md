@@ -1,3 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=141&color=252C42&textBg=false"/>
+
+
+
 ## 🌱 Learning
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-C++" height="110" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
@@ -39,7 +43,22 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaW74&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src= "https://img.shields.io/badge/RafinhaW74" 
+  />
+
+
 </p>
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=141&color=111720&textBg=false&section=footer"/>
+

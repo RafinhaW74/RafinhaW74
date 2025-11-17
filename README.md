@@ -1,16 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=252C42&textBg=false"/>
 
----
 
 ## 🌱 Learning
-<div align="center" style="display: flex; gap: 20px;">
+<div align="left" style="display: flex; gap: 20px;">
   <img alt="C++" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </div>
 
----
 
 ## 👾 Skills
-<div align="center" style="display: flex; gap: 25px;"><br>
+<div align="left" style="display: flex; gap: 25px;"><br>
   <img alt="GitKraken" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg">
   <img alt="Java" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img alt="C Language" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
@@ -18,10 +16,9 @@
   <img alt="Matlab" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
 </div>
 
----
 
 ## 📬 Contato
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:rafamunhozcastro@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -71,9 +68,6 @@
     </td>
   </tr>
 </table>
-
-
-
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=182131&textBg=false&section=footer"/>

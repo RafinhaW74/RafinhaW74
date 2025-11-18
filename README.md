@@ -8,11 +8,6 @@ I’m always looking for new challenges and enjoy exploring technologies that in
 
 My main focus is developing innovative solutions for smart and connected systems.
 
-## 🌱 Learning
-<div align="left" style="display: flex; gap: 20px;">
-  <img alt="C++" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-</div>
-
 
 ## 👾 Skills
 <div align="left" style="display: flex; gap: 25px;"><br>

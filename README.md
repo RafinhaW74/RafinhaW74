@@ -1,7 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=252C42&textBg=false"/>
 
-## Introduction
+## 👨‍💻 About Me
 
+I’m XXXX, an undergraduate Computer Engineering student at UTFPR, with a strong interest in Internet of Things (IoT) projects and embedded systems.
+
+I’m always looking for new challenges and enjoy exploring technologies that integrate hardware and software efficiently.
+
+My main focus is developing innovative solutions for smart and connected systems.
 
 ## 🌱 Learning
 <div align="left" style="display: flex; gap: 20px;">

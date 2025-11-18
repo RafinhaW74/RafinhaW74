@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=252C42&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=2A2850&textBg=false"/>
 
 ## 👨‍💻 About Me
 
@@ -23,7 +23,8 @@ My main focus is developing innovative solutions for smart and connected systems
 
 
 
-| ![](https://streak-stats.vercel.app?user=RafinhaW74&theme=tokyonight&hide_border=true&ring=4315DD&fire=3AB5DD&currStreakNum=3AB5DD&sideNums=3AB5DD&currStreakLabel=3AB5DD&dates=4D18FF&sideLabels=4D18FF&stroke=4315DD) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaW74&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true) |
+
+| ![](https://streak-stats.vercel.app?user=RafinhaW74&hide_border=true&background=141321&ring=FCEE0C&fire=EC053E&currStreakNum=00FFC8&currStreakLabel=EC053E&stroke=00FFC8&sideNums=00FFC8&sideLabels=EC053E) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaW74&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true) |
 | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafinhaW74&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafinhaW74&theme=2077) |
@@ -40,4 +41,4 @@ My main focus is developing innovative solutions for smart and connected systems
 </div>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=182131&textBg=false&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=1A1830&textBg=false&section=footer"/>

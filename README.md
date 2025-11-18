@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I’m XXXX, an undergraduate Computer Engineering student at UTFPR, with a strong interest in Internet of Things (IoT) projects and embedded systems.
+I’m Rafael, an undergraduate Computer Engineering student at UTFPR, with a strong interest in Internet of Things (IoT) projects and embedded systems.
 
 I’m always looking for new challenges and enjoy exploring technologies that integrate hardware and software efficiently.
 

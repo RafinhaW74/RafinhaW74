@@ -12,54 +12,21 @@ My main focus is developing innovative solutions for smart and connected systems
 ## 👾 Skills
 <div align="left" style="display: flex; gap: 25px;"><br>
   <img alt="GitKraken" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg">
-  <img alt="C++" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img alt="C++" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img alt="C Language" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img alt="Java" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img alt="MySQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 
-
 ## 📊 Statistics
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img 
-        height="180" 
-        src="https://github-readme-stats.vercel.app/api?username=RafinhaW74&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
-      />
-    </td>
-    <td align="center" style="border: none;">
-      <img 
-        height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaW74&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"
-      />
-    </td>
-    <td align="center" style="border: none;">
-      <img 
-        height="180"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafinhaW74&theme=tokyonight&utcOffset=3"
-      />
-    </td>
-  </tr>
-</table>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img 
-        height="300"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafinhaW74&theme=tokyonight" 
-      />
-    </td>
-    <td align="center" style="border: none;">
-      <img 
-        height="300"
-        src="https://streak-stats.vercel.app/?user=RafinhaW74&theme=tokyonight&hide_border=true"
-      />
-    </td>
-  </tr>
-</table>
+| ![](https://streak-stats.vercel.app/?user=RafinhaW74&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaW74&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true) |
+| :-: | :-: |
+
+| ![](https://github-readme-stats.vercel.app/api?username=RafinhaW74&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafinhaW74&theme=tokyonight) |
+| :-: | :-: |
+
 
 <div align="left"> 
   <a href="mailto:rafamunhozcastro@gmail.com">

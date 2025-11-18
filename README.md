@@ -21,10 +21,12 @@ My main focus is developing innovative solutions for smart and connected systems
 
 ## 📊 Statistics
 
-| ![](https://streak-stats.vercel.app/?user=RafinhaW74&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaW74&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true) |
+
+
+| ![](https://streak-stats.vercel.app?user=RafinhaW74&theme=tokyonight&hide_border=true&ring=4315DD&fire=3AB5DD&currStreakNum=3AB5DD&sideNums=3AB5DD&currStreakLabel=3AB5DD&dates=4D18FF&sideLabels=4D18FF&stroke=4315DD) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaW74&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true) |
 | :-: | :-: |
 
-| ![](https://github-readme-stats.vercel.app/api?username=RafinhaW74&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafinhaW74&theme=tokyonight) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafinhaW74&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafinhaW74&theme=2077) |
 | :-: | :-: |
 
 

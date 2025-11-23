@@ -28,7 +28,7 @@ My main focus is developing innovative solutions for smart and connected systems
 | :-: | :-: |
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafinhaW74&theme=2077) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaW74&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafinhaW74&theme=2077) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaW74&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true&bg_color=141321&title_color=EC053E&text_color=00FFC8&icon_color=00FFC8) |
 | :-: | :-: |
 
 

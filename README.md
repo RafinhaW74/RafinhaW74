@@ -8,6 +8,7 @@ I’m always looking for new challenges and enjoy exploring technologies that in
 
 My main focus is developing innovative solutions for smart and connected systems.
 
+<br><br>
 
 ## 👾 Skills
 <div align="left" style="display: flex; gap: 25px;"><br>
@@ -18,11 +19,9 @@ My main focus is developing innovative solutions for smart and connected systems
   <img alt="MySQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
+<br><br>
 
 ## 📊 Statistics
-
-
-
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafinhaW74&theme=2077) | ![](https://streak-stats.vercel.app?user=RafinhaW74&hide_border=true&background=141321&ring=FCEE0C&fire=EC053E&currStreakNum=00FFC8&currStreakLabel=EC053E&stroke=00FFC8&sideNums=00FFC8&sideLabels=EC053E) |
 | :-: | :-: |
@@ -41,5 +40,7 @@ My main focus is developing innovative solutions for smart and connected systems
   </a> 
 </div>
 
+<br><br>
+![Image](https://github.com/user-attachments/assets/2dd32ca8-499a-4bd1-ac30-13a8ade0e639)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=1A1830&textBg=false&section=footer"/>

@@ -13,7 +13,6 @@ My main focus is developing innovative solutions for smart and connected systems
 ## 👾 Skills
 <div align="left" style="display: flex; gap: 25px;"><br>
   <img alt="GitKraken" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg">
-  <img alt="C++" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img alt="C Language" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img alt="Java" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img alt="MySQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
